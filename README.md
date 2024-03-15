@@ -1,4 +1,9 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=1000&pause=2000&color=1C75DD&width=435&lines=Hello%2C+world!;I'm+Julie.)](https://git.io/typing-svg)
+<h1 align="left">Hello, World! 👋</h1>
+
+<p align="left">Meu nome é Julie e sou uam entusiasta em tecnologia.</p>
+
+## Sobre
+<p align="left">📚 Cursando Análise e Desenvolvimento de Sistemas<br>🖥️ Voluntariando como Desenvolvedora Web</p>
 
 <div>
   <a href="https://github.com/juliegodoi">
@@ -7,7 +12,22 @@
 </div>
 
 ## Skills
-![HTML](https://img.shields.io/badge/HTML-1C75DD?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
-![CSS](https://img.shields.io/badge/CSS-1C75DD?&style=for-the-badge&logo=css3&logoColor=white)&nbsp;
-![JavaScript](https://img.shields.io/badge/JavaScript-1C75DD?style=for-the-badge&logo=javascript&logoColor=white)&nbsp;
-![Bootstrap](https://img.shields.io/badge/Bootstrap-1C75DD?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"/>
+</div>
+
+## Contato
+<div align="left">
+  <a href="https://www.linkedin.com/in/juliegodoi/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="37" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="mailto:juliegodoi@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="37" height="25" alt="gmail logo"  />
+  </a>
+</div>
