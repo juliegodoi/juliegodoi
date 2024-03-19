@@ -1,10 +1,11 @@
 <h1 align="left">Hello, World! 👋</h1>
 
-<p align="left">Meu nome é Julie e sou uam entusiasta em tecnologia.</p>
+<p align="left">Meu nome é Julie e sou uma entusiasta em tecnologia.</p>
 
-## Sobre
+## About
 <p align="left">📚 Cursando Análise e Desenvolvimento de Sistemas<br>🖥️ Voluntariando como Desenvolvedora Web</p>
 
+## Stats
 <div>
   <a href="https://github.com/juliegodoi">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=juliegodoi&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
@@ -22,12 +23,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"/>
 </div>
 
-## Contato
+## Contact
 <div align="left">
-  <a href="https://www.linkedin.com/in/juliegodoi/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="37" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="mailto:juliegodoi@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="37" height="25" alt="gmail logo"  />
-  </a>
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"/>
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"/>
 </div>
