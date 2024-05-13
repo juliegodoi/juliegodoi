@@ -1,6 +1,6 @@
 <h1 align="left">Hello, World! 👋</h1>
 
-<p align="left">Meu nome é Julie e sou uma estudante de programação!</p>
+<p align="left"> Meu nome é Julie e estou aprimorando constantemente meus conhecimentos na programação! </p>
 
 ## About
 <p align="left">
