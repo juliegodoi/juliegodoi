@@ -1,12 +1,14 @@
 <h1 align="left">Hello, World! 👋</h1>
 
-<p align="left"> Meu nome é Julie e estou aprimorando constantemente meus conhecimentos na programação! </p>
+<p align="left"> My name is Julie, welcome to my profile! </p>
 
 ## About
-<p align="left">
-  📚 Cursando Análise e Desenvolvimento de Sistemas na Unisinos<br>
-  🖥️ Voluntariando como Desenvolvedora Web no Grupo Símios<br>
-</p>
+<ul align="left">
+  <li> Graduating in Systems Analysis and Development Technologist at Unisinos </li>
+  <li> Volunteering as Front End Web Developer and Development Coordinator at Grupo Símios </li>
+  <li> Studying full stack web development and agile project management with scrum </li>
+  <li> I speak native Portuguese and advanced English </li>
+</ul>
 
 ## Stats    
 <div align="left">
