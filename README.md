@@ -7,7 +7,7 @@
   <li> Graduating in Systems Analysis and Development  </li>
   <li> Volunteering as Front End Web Developer  </li>
   <li> Studying full stack web development </li>
-  <li> Speak native Portuguese and advanced English </li>
+  <li> Speaks native Portuguese and advanced English </li>
 </ul>
 
 ## Stats    
