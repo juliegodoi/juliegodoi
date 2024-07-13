@@ -5,9 +5,9 @@
 ## About
 <ul align="left">
   <li> Graduating in Systems Analysis and Development at Unisinos </li>
-  <li> Volunteering as Front End Web Developer and Development Coordinator at Grupo Símios </li>
-  <li> Studying full stack web development and agile project management with scrum </li>
-  <li> I speak native Portuguese and advanced English </li>
+  <li> Volunteering as Front End Web Developer at Grupo Símios </li>
+  <li> Studying full stack web development </li>
+  <li> Speak native Portuguese and advanced English </li>
 </ul>
 
 ## Stats    
