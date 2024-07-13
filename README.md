@@ -4,8 +4,8 @@
 
 ## About
 <ul align="left">
-  <li> Graduating in Systems Analysis and Development at Unisinos </li>
-  <li> Volunteering as Front End Web Developer at Grupo Símios </li>
+  <li> Graduating in Systems Analysis and Development  </li>
+  <li> Volunteering as Front End Web Developer  </li>
   <li> Studying full stack web development </li>
   <li> Speak native Portuguese and advanced English </li>
 </ul>
