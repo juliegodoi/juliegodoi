@@ -2,14 +2,6 @@
 
 <p align="left"> My name is Julie, welcome to my profile! </p>
 
-## About
-<ul align="left">
-  <li> Graduating in Systems Analysis and Development  </li>
-  <li> Volunteering as Front End Web Developer  </li>
-  <li> Studying full stack web development </li>
-  <li> Native Portuguese and advanced English speaker </li>
-</ul>
-
 ## Stats    
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=juliegodoi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=transparent&locale=en&hide_border=false" height="150" alt="stats graph"/>
