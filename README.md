@@ -1,6 +1,6 @@
 <h1 align="left">Hello, World! 👋</h1>
 
-<p align="left"> My name is Julie, I'm a graduate student in Systems Analysis and Development, currently studying and practicing front end web development and UI design. </p>
+<p align="left"> My name is Julie, I'm a graduate student in Systems Analysis and Development, currently studying and practicing Front-end web development and UI design. </p>
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=juliegodoi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=transparent&locale=en&hide_border=false" height="150" alt="stats graph"/>
