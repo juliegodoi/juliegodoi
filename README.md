@@ -1,18 +1,22 @@
-<h1 align="left">Hello, World! 👋</h1>
+# Hello, World! 👋
 
-<p align="left"> My name is Julie, I'm a graduate student in Systems Analysis and Development. </p>
+🎓 Graduate student in **Systems Analysis and Development**  
+🧪 Focused on **Software Quality Assurance & Test Automation**
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=juliegodoi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=transparent&locale=en&hide_border=false" height="150" alt="stats graph"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=juliegodoi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=transparent&hide_border=false" height="150" alt="languages graph"/>
-</div>
+> **Quality is not only about finding bugs — it's about preventing them.**
+<br>
 
-## Contact
-<div align="left">
-  <a href="https://www.linkedin.com/in/juliegodoi/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"/>
-  </a>
-  <a href="mailto:juliegodoi@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"/>
-  </a>
-</div>
+#### Contact
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/juliegodoi)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juliegodoi@email.com)
+
+
+#### Tech
+
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Newman](https://img.shields.io/badge/Newman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
